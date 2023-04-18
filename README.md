@@ -4,7 +4,7 @@ VIEW WHERE I AM
  pwd
 
 CREATE A FOLDER
-mkdir название папки 
+mkdir FOLDER NAME
 
 GO TO FOLDER
 cd 
@@ -48,14 +48,19 @@ cp folder name
 
  VIEW CONTENT IN REAL TIME
  grep text ras.txt 
+
 FIND FILE BY NAME
  find "ras.txt"     
+
 OUTPUT THE FIRST FEW LINES FROM A TEXT FILE
  head -n 5 ras.txt 
+
 PRINT THE LAST FEW LINES FROM A TEXT FILE
 tail -n 5 ras.txt 
+
 VIEW THE CONTENT OF A LONG FILE
 less ras.txt  q-выход  
+
 DISPLAY DATE AND TIME
  date
 
