@@ -18,6 +18,8 @@ Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13
 
 13)mv 1.txt/book_1 2.txt/book_2
 
+run script
+
 ./myscript.sh
 
 
